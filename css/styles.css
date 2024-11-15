@@ -1,0 +1,129 @@
+html,
+body {
+  height: 100%;
+}
+
+#sun {
+  height: 200px;
+  width: auto;
+  position: absolute;
+}
+
+#cloud {
+  height: 200px;
+  width: auto;
+  position: absolute;
+}
+
+#flower {
+  height: 200px;
+  width: auto;
+  position: absolute;
+}
+
+#bird {
+  height: 200px;
+  width: auto;
+  position: absolute;
+}
+
+#bee {
+  height: 200px;
+  width: auto;
+  position: absolute;
+}
+
+#butterfly {
+  height: 200px;
+  width: auto;
+  position: absolute;
+}
+
+#wateringcan {
+  width: 200px;
+  position: fixed;
+  bottom: 20%;
+  left: 40%;
+}
+
+.waterdrop {
+  width: 20px;
+}
+
+#net {
+  height: 600px;
+  width: auto;
+  position: absolute;
+}
+
+.apple {
+  height: 50px;
+  width: auto;
+  position: absolute;
+}
+
+#tree {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+}
+
+#butterfly {
+  height: 200px;
+  width: auto;
+  position: absolute;
+}
+
+#wateringcan {
+  width: 200px;
+  position: fixed;
+  bottom: 20%;
+  left: 40%;
+}
+
+.waterdrop {
+  width: 20px;
+}
+
+#net {
+  height: 600px;
+  width: auto;
+  position: absolute;
+}
+
+.apple {
+  height: 50px;
+  width: auto;
+  position: absolute;
+}
+
+#tree {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+}
+
+.basket {
+  width: 200px;
+  position: fixed;
+  bottom: 20px;
+  left: 20%;
+}
+
+#butterfly {
+  width: 50px;
+  height: 50px;
+  background-image: url("../images/butterfly.png");
+  background-size: cover;
+  position: absolute;
+  transition: transform 0.1s;
+}
+
+body {
+  margin: 0px;
+  background-image: url("../images/grass.png");
+  background-attachment: fixed;
+  background-repeat: repeat-x;
+  background-position: bottom;
+  overflow: hidden;
+}
